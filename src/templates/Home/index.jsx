@@ -1,7 +1,7 @@
 export const Home = () => {
   return (
     <div>
-      <h1>OI</h1>
+      <h1>Bem Vindo</h1>
     </div>
   );
 };
