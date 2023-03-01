@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: rgb(195, 185, 173);
 }
 
 body {
@@ -16,4 +17,11 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding: 10px;
 }
